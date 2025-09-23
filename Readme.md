@@ -72,5 +72,5 @@ Este proyecto está bajo la licencia MIT.
 
 ## 📬 Contacto
 
-agusfanzo@gmail.com  
+[Formulario](https://fanzo.vercel.app/#contacto)  
 [LinkedIn](https://www.linkedin.com/in/afanzo/)
