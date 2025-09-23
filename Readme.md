@@ -1,0 +1,61 @@
+# AuditMate
+
+![AuditMate Logo](https://via.placeholder.com/200x60?text=AuditMate+Logo)
+
+AuditMate es una herramienta diseñada para facilitar la gestión y auditoría de proyectos. Su objetivo es simplificar el seguimiento de tareas, la generación de reportes y la colaboración entre equipos.
+
+## Características
+
+- **Gestión de auditorías:** Crea, edita y organiza auditorías fácilmente.
+- **Reportes automáticos:** Genera informes detallados en PDF y Excel.
+- **Colaboración:** Permite la asignación de tareas y comentarios entre usuarios.
+- **Historial de cambios:** Registra todas las modificaciones para mayor transparencia.
+- **Interfaz intuitiva:** Diseño moderno y fácil de usar.
+
+## Instalación
+
+```bash
+git clone https://github.com/tu-usuario/AuditMate.git
+cd AuditMate
+npm install
+npm start
+```
+
+## Uso
+
+1. Inicia la aplicación.
+2. Crea una nueva auditoría.
+3. Asigna tareas y colaboradores.
+4. Genera reportes desde el panel principal.
+
+![Dashboard](https://via.placeholder.com/600x300?text=Dashboard+AuditMate)
+*Ejemplo del panel principal de AuditMate.*
+
+## Tecnologías utilizadas
+
+- Node.js
+- React
+- MongoDB
+- Express
+
+## Contribuir
+
+¡Las contribuciones son bienvenidas! Por favor, abre un issue o envía un pull request.
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT.
+
+---
+
+![Audit Process](https://via.placeholder.com/600x200?text=Audit+Process)
+
+*Visualización del proceso de auditoría.*
+
+---
+
+**Contacto:**  
+
+agusfanzo@gmail.com
+
+(https://www.linkedin.com/in/afanzo/)

@@ -1,0 +1,95 @@
+.contract-analyzer {
+  background-color: #0f172a;
+  color: #f1f5f9;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.contract-analyzer.light {
+  background-color: #f1f5f9;
+  color: #0f172a;
+}
+
+.contract-analyzer h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #38bdf8;
+}
+
+.contract-analyzer label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.contract-analyzer textarea {
+  width: 100%;
+  padding: 0.75rem;
+  background-color: #1e293b;
+  color: white;
+  border: 1px solid #334155;
+  border-radius: 0.5rem;
+  resize: vertical;
+}
+
+.contract-analyzer.light textarea {
+  background-color: white;
+  color: black;
+}
+
+.contract-analyzer input[type="file"] {
+  margin-top: 1rem;
+  color: white;
+}
+
+.contract-analyzer.light input[type="file"] {
+  color: black;
+}
+
+.contract-analyzer button {
+  background-color: #38bdf8;
+  color: #0f172a;
+  font-weight: bold;
+  padding: 0.75rem 1.25rem;
+  margin-top: 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.contract-analyzer button:hover {
+  background-color: #0ea5e9;
+}
+
+.vulnerability-card {
+  background-color: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.contract-analyzer.light .vulnerability-card {
+  background-color: #fef9c3;
+  border-color: #facc15;
+  color: black;
+}
+
+.vulnerability-card h3 {
+  margin-bottom: 0.5rem;
+  color: #f43f5e;
+}
+
+.analysis-history {
+  margin-top: 2rem;
+  border-top: 2px solid #334155;
+  padding-top: 1rem;
+}
+
+.analysis-history h2 {
+  font-size: 1.25rem;
+  color: #facc15;
+  margin-bottom: 0.5rem;
+}
