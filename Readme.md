@@ -60,6 +60,8 @@ npm start
 ¡Las contribuciones son bienvenidas!  
 Por favor, abre un issue o envía un pull request.
 
+[Contacto](https://fanzo.vercel.app/#contacto)
+
 ---
 
 ## 📄 Licencia
