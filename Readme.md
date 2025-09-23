@@ -39,12 +39,19 @@ npm start
 
 ---
 
+## 🧠 Respuestas con IA
+
+![Vista previa de la app](./images/resultados.png)
+![Vista previa de la app](./images/contrato.png)
+
+---
+
 ## 🚀 Tecnologías utilizadas
 
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) Node.js  
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat) React  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) MongoDB  
-- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat) Express  
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)   
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+- ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat)   
 
 ---
 
