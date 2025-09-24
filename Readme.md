@@ -1,6 +1,6 @@
 # AuditMate
 
-![AuditMate Logo](https://via.placeholder.com/200x60?text=AuditMate+Logo)
+![AuditMate Logo](./images/auditmate.svg)
 
 AuditMate es una herramienta para la gestión y auditoría de proyectos.  
 Su objetivo es simplificar el seguimiento de tareas, la generación de reportes y la colaboración entre equipos.
