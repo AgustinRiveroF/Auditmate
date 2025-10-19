@@ -1,0 +1,11 @@
+<!-- File: logo-auditmate-icon.svg
+     Icon-only, 1:1 square (use for favicon, app icon) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 240 240" role="img" aria-label="AuditMate icon">
+  <rect width="240" height="240" rx="36" fill="#062A2A"></rect>
+  <!-- shield -->
+  <path d="M120 30 L190 66 C190 140 150 196 120 214 C90 196 50 140 50 66 Z" fill="#06B6D4"></path>
+  <!-- magnifier -->
+  <circle cx="140" cy="84" r="18" fill="#062A2A"></circle>
+  <circle cx="140" cy="84" r="14" fill="#06B6D4"></circle>
+  <path d="M152 96 L180 124" stroke="#062A2A" stroke-width="8" stroke-linecap="round"></path>
+</svg>
